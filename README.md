@@ -1,1 +1,1 @@
-# Bayasian-Statistics-with-Python
+# Bayesian-Statistics-with-Python
